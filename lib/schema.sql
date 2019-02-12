@@ -30,4 +30,3 @@ CREATE TABLE characters (
   author_id INTEGER,
   series_id INTEGER
 );
-
